@@ -3,6 +3,23 @@
 
 ![Greetings Mini](https://user-images.githubusercontent.com/88684972/184051773-5a4eebbf-f707-49cc-bbf0-510abd13a85f.gif)
 
+I'm about to graduate as a Junior Software Developer, I love my career specially on software and electronics
+
+### My projects
+#### LED Cube
+I really enjoy electronics, then I started to learn Arduino at my school which was so cool, then I encountered with some electronic projects that could be done using Arduino and the LED Cube was one of them, so I built it myselft 😁
+
+It's an 8x8x8 Blue LED Arrangement that works as the coolest lamp I've ever had.
+
+![LED Cube Mini](https://user-images.githubusercontent.com/88684972/184158085-9e6f6ebd-99a7-412f-bd26-5e9659a17587.png)
+
+
+#### Online Community Learning Platform
+This was the final project that we had to make in our career, our goal was to build a Progressive Web App about a learning platform where everyone could share their knowledge. It was created by a team of 3 people, me included. The platform's name is **Academo** and was build using React and Express.
+
+![Academo Mini](https://user-images.githubusercontent.com/88684972/184158466-d580f7e8-66cf-4b58-b09c-57acb027a221.png)
+
+
 ### Techonogies I've worked with...
 ![C Mini](https://user-images.githubusercontent.com/88684972/184049058-37fe1428-855c-4b47-9842-870e13631409.png)
 ![C++ Mini](https://user-images.githubusercontent.com/88684972/184048891-3fbba489-a4f1-4d6d-809b-02adec1fd690.png)
@@ -18,6 +35,8 @@
 ![Node JS Mini](https://user-images.githubusercontent.com/88684972/184050984-2ded0a34-46a6-4374-a7bd-abf63a415a1d.png)
 ![NPM Logo Mini](https://user-images.githubusercontent.com/88684972/184051077-8efeb1f5-4701-441b-9bfe-978a26b7919f.png)
 ![Arduino Mini](https://user-images.githubusercontent.com/88684972/184050612-2083f77f-5c1c-436f-b7ac-41ab1598624f.png)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=themagicdragonmx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 TheMagicDragonMX/TheMagicDragonMX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
