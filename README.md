@@ -34,6 +34,11 @@ This was the final project that we had to make in our career, our goal was to bu
 ![React Mini](https://user-images.githubusercontent.com/88684972/184050071-b7677e10-095a-4d3f-a47b-1ba9445c5b47.png)
 ![Node JS Mini](https://user-images.githubusercontent.com/88684972/184050984-2ded0a34-46a6-4374-a7bd-abf63a415a1d.png)
 ![NPM Logo Mini](https://user-images.githubusercontent.com/88684972/184051077-8efeb1f5-4701-441b-9bfe-978a26b7919f.png)
+![PHP Mini](https://user-images.githubusercontent.com/88684972/184457015-f99795c7-16f2-4486-8481-40089a29bcca.png)
+![MySQL Mini](https://user-images.githubusercontent.com/88684972/184457022-1fc664c2-736a-4410-a8c9-83a746ef2930.png)
+![Firebase Mini](https://user-images.githubusercontent.com/88684972/184457024-0bbe1b94-4e69-4c05-bd09-984cd7395e28.png)
+
+
 ![Arduino Mini](https://user-images.githubusercontent.com/88684972/184050612-2083f77f-5c1c-436f-b7ac-41ab1598624f.png)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=themagicdragonmx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
