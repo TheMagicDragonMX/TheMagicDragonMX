@@ -11,8 +11,7 @@ I really enjoy electronics, then I started to learn Arduino at my school which w
 
 It's an 8x8x8 Blue LED Arrangement that works as the coolest lamp I've ever had.
 
-![LED Cube Mini](https://user-images.githubusercontent.com/88684972/184158085-9e6f6ebd-99a7-412f-bd26-5e9659a17587.png)
-
+![LED Cube](https://user-images.githubusercontent.com/88684972/184558006-ac4b4921-f1fa-4535-aab4-d12d0e6638a0.png)
 
 #### Online Community Learning Platform
 This was the final project that we had to make in our career, our goal was to build a Progressive Web App about a learning platform where everyone could share their knowledge. It was created by a team of 3 people, me included. The platform's name is **Academo** and was build using React and Express.
