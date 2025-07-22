@@ -52,7 +52,9 @@ The second project of my first job, a tool for nutritionists that help them mana
 
 ![Arduino Mini](https://user-images.githubusercontent.com/88684972/184050612-2083f77f-5c1c-436f-b7ac-41ab1598624f.png)
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=themagicdragonmx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 <!---
 TheMagicDragonMX/TheMagicDragonMX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
